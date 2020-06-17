@@ -2,7 +2,7 @@
 
 ## 静電容量式センサの決定版！！  
 
-!()[https://bit-trade-one.co.jp/wp/wp-content/uploads/2015/09/d912eda84c8b3562c5143c2d11428d231.png]  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2015/09/d912eda84c8b3562c5143c2d11428d231.png)  
 
 **組み込みスイッチなど様々な用途に活用できるモジュール製品**  
 **センサ用透明フィルムを始め、様々な導体でタッチ／近接センサが製作出来る！**  
@@ -20,6 +20,15 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adfcs01/)!
 
+## [マニュアル](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/blob/master/Manual/ADFCS01-Manual-WEB.pdf)
+
+## [PCアプリ](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/tree/master/App)
+
+### [ライブラリ](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/tree/master/Library)
+
+### [サンプル](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/tree/master/Sample)
+
+### [回路図](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/blob/master/Schematics/film_prox_v2_schematics.pdf)
 
 
 ## 製品仕様
