@@ -20,7 +20,7 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adfcs01/)!
 
-## [マニュアル](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/blob/master/Manual/ADFCS01-Manual-WEB.pdf)
+## [マニュアル](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/blob/master/Manual/ADFCS01-manual-WEB.pdf)
 
 ## [PCアプリ](https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor/tree/master/App)
 
